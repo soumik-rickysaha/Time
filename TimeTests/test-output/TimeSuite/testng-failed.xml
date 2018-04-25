@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TimeSuite]">
+  <test name="TimeTest(failed)">
+    <classes>
+      <class name="Time.TimeTests.TimeTest">
+        <methods>
+          <include name="VerifyWebpage"/>
+          <include name="DriverSetup"/>
+        </methods>
+      </class> <!-- Time.TimeTests.TimeTest -->
+    </classes>
+  </test> <!-- TimeTest(failed) -->
+</suite> <!-- Failed suite [TimeSuite] -->
