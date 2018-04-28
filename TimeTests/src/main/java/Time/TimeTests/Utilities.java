@@ -16,10 +16,8 @@ public class Utilities {
 
 	public String createFolder(String strTestName, String TargetLocation) {
 		String Fullpath = null;
-		String Fullpath1 = "w";
+		String Fullpath1 = "we";
 
-
-		
 		switch (TargetLocation.toUpperCase()) {
 
 		case "AIMCAT":
