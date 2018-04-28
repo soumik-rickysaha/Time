@@ -16,7 +16,7 @@ public class Utilities {
 
 	public String createFolder(String strTestName, String TargetLocation) {
 		String Fullpath = null;
-		String Fullpath1 = "a";
+		String Fullpath1 = "w";
 
 
 		
