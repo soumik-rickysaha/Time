@@ -17,6 +17,7 @@ public class Utilities {
 	public String createFolder(String strTestName, String TargetLocation) {
 		String Fullpath = null;
 		String Fullpath1 = "we";
+		String Test="soumik saha";
 
 		switch (TargetLocation.toUpperCase()) {
 
